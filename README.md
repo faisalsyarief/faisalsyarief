@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+```mermaid
+pie showData
+    title Skill Distribution
+    "PHP": 20
+    "JavaScript": 15
+    "Java": 15
+    "Flutter": 10
+    "HTML & CSS": 10
+    "Databases": 15
+    "Dev Tools": 10
+    "OS & Server Management": 5
+```
