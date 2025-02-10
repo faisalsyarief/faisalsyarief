@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 ```mermaid
 pie showData
     title Skill Distribution
-    "PHP": 20
-    "JavaScript": 15
-    "Java": 15
-    "Flutter": 10
-    "HTML & CSS": 10
-    "Databases": 15
-    "Dev Tools": 10
-    "OS & Server Management": 5
+    "PHP": 100
+    "JavaScript": 90
+    "Java": 70
 ```
