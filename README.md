@@ -22,11 +22,9 @@ pie showData
 - `Databases:` MySQL, PostgreSQL, Microsoft SQL Server, Oracle
 - `Development Tools:` IntelliJ IDEA, Visual Studio Code, Postman, Insomnia, SoapUI, Git, GitHub, GitLab, Subversion, DBeaver, Navicat, Laragon, XAMPP
 - `Operating Systems & Server Management:` RedHat, CentOS, Nginx, Remote Desktop
+### 📚 Frameworks & Libraries  
+![Ext JS](https://img.shields.io/badge/Ext%20JS-0865A6?style=for-the-badge&logo=sencha&logoColor=white)  ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
 
+### 🛠 Development Tools  
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)  ![SoapUI](https://img.shields.io/badge/SoapUI-6CB52D?style=for-the-badge&logo=soapui&logoColor=white)  ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)  ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)  
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://faisalsyarifuddin.my.canva.site/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-syarifuddin/)
-
-[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faisalsyarifuddin/)
