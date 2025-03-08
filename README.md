@@ -1,11 +1,12 @@
 # Faisal Syarifuddin
 
 ## 🚀 About Me
-I am a **Full Stack Developer** with 4 years of experience specializing in ​**PHP**. I have successfully created and developed a variety of websites, ​including both corporate and personal projects. My expertise spans **full-​stack development**, ensuring robust and user-friendly web solutions.
+An experienced Software Engineer specializing in web, mobile, and API development, server management, and application deployment. Skilled in designing and developing various systems, including Human Capital Information System (HCIS), e-Ticketing, e-Procurement, Learning Management System, and Middleware KSEI. Proficient in multiple technologies, including PHP (CodeIgniter, Laravel, Native), Java Spring Boot, Flutter, React, SQL Server, MySQL, PostgreSQL, and Oracle.
+Additionally, experienced in system migration, application security enhancement through penetration testing, performance optimization via stress testing, and version control management using Git. Also has experience as an Assistant Lecturer in Computer Applications.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://faisalsyarifuddin.my.canva.site/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-syarifuddin/)  [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faisalsyarifuddin/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://faisalsyarifuddin.my.canva.site/](https://www.canva.com/design/DAGg7ty9le0/tmM_elZMP9V9naVd0ssB3A/view?utm_content=DAGg7ty9le0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e47a12e69))  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-syarifuddin/)  [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faisalsyarifuddin/)
 
 
 ## 🛠 Skills
