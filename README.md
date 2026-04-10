@@ -8,7 +8,9 @@ Previously served as an Assistant Lecturer in Computer Applications, assisting s
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.canva.com/design/DAGg7ty9le0/tmM_elZMP9V9naVd0ssB3A/view?utm_content=DAGg7ty9le0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e47a12e69)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-syarifuddin/)  [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faisalsyarifuddin/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.canva.com/design/DAGg7ty9le0/tmM_elZMP9V9naVd0ssB3A/view?utm_content=DAGg7ty9le0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e47a12e69)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-syarifuddin/)  [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faisalsyarifuddin/)  [![linkedin](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_faisalsyarifuddin)
+
+
 
 
 ## 🛠 Skills
