@@ -1,7 +1,10 @@
 # Faisal Syarifuddin
 
 ## 🚀 About Me
-An experienced Software Engineer specializing in web, mobile, and API development, server management, and application deployment. Skilled in designing and developing various systems, both as web applications and API services. Proficient in multiple programming languages and frameworks, including PHP (CodeIgniter, Laravel, Native), Java Spring Boot, Flutter, and JavaScript (Node.js, Express.js, React, Vue.js), with expertise in databases such as SQL Server, MySQL, PostgreSQL, and Oracle. Additionally, experienced in system migration, application security enhancement through penetration testing, performance optimization via stress testing, server deployment, and version control management using Git. Also served as an Assistant Lecturer in Computer Applications.
+An experienced Software Engineer specializing in PHP and Python-based application development, API development, and application deployment on Linux servers. Experienced in designing and building various web-based systems and API services with scalable and maintainable architectures.
+Proficient in PHP frameworks such as Laravel, CodeIgniter, and Native PHP, as well as application development using Python. Familiar with working with various database systems including MySQL, PostgreSQL, and SQL Server.
+Experienced in implementing CI/CD pipelines, containerization using Docker, and deploying applications in Ubuntu/Linux server environments. Also experienced in system performance optimization, improving application security through penetration testing, and managing version control using Git.
+Previously served as an Assistant Lecturer in Computer Applications, assisting students in understanding fundamental programming concepts and system development.
 
 
 ## 🔗 Links
